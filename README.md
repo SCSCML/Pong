@@ -10,6 +10,8 @@ Policy Gradient explained (http://mlg.eng.cam.ac.uk/rowan/files/rl/PolicyGradien
 
 텐서플로우 코리아 - Reinforce Pong at Gym (https://tensorflowkorea.wordpress.com/2016/07/13/reinforce-pong-at-gym/)
 
+김태훈 - 강화학습 기초 (http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
+
 ### Tutorials
 모두를 위한 머신러닝/딥러닝 강의 (https://hunkim.github.io/ml)
 

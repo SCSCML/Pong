@@ -26,3 +26,5 @@ David Silver's RL course (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.h
 강혁 (brainsormot)
 
 양지현 (corogee)
+
+김성우 (cofeal)

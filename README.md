@@ -18,7 +18,7 @@
 
 ### Code Implementations
 - [Andrew Karparthy's Pong RL Code](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
-- [Carpedm20(김태훈)'s Deep RL TensorflowImplementations](https://github.com/carpedm20/deep-rl-tensorflow)
+- [Carpedm20(김태훈)'s Deep RL Tensorflow Implementations](https://github.com/carpedm20/deep-rl-tensorflow)
 
 ### Textbook
 - [Reinforcement Learning: An Introduction (Richard S. Sutton and Andrew G.Barto)](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)

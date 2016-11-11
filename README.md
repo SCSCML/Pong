@@ -3,7 +3,7 @@
 ## Useful Links (Update useful links that you want to share with everyone)
 
 ### Library/Environments
-- [TensorFlow 0.9.0 Python API documentation](https://www.tensorflow.org/versions/r0.9/api_docs/python/index.html)
+- [TensorFlow 0.11.0 Python API documentation](https://www.tensorflow.org/versions/r0.11/api_docs/python/index.html)
 - [Numpy 1.10.1](http://docs.scipy.org/doc/numpy-1.10.1/genindex.html)
 - [tqdm(A fast, extensible progress bar for Python)](https://github.com/tqdm/tqdm)
 - [OpenAIGym](https://gym.openai.com/)
@@ -19,14 +19,22 @@
 ### Code Implementations
 - [Andrew Karparthy's Pong RL Code](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5)
 - [Carpedm20(김태훈)'s Deep RL Tensorflow Implementations](https://github.com/carpedm20/deep-rl-tensorflow)
+- [WildML(Denny Britz)'s Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+- [Python code for Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ### Textbook
 - [Reinforcement Learning: An Introduction (Richard S. Sutton and Andrew G.Barto)](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+- [Fundamental of Reinforcement Learning (이웅원/모두의연구소)](https://dnddnjs.gitbooks.io/rl/content/)
 
 ### Lecture
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml)
 - [Udacity Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820)
 - [David Silver's RL course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+### Papers
+- [Deep Reinforcement Learning Papers 1](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+- [Deep Reinforcement Learning Papers 2](https://github.com/muupan/deep-reinforcement-learning-papers)
+
 
 ## Members (Introduce Yourself)
 - 조재민 (j-min)
